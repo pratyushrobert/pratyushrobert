@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Pratyush!+👋;CS+Undergrad+%40+RKGIT;Frontend+Dev+%7C+Cybersec+Enthusiast;Cat+Dad+to+Mimi+%26+Prez!&random=false" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Hi+there%2C+I%27m+Pratyush!+%F0%9F%91%8B;CS+Undergrad+%40+RKGIT;Frontend+Dev+%7C+Cybersec+Enthusiast;Cat+Dad+to+Mimi+%26+Prez!&random=false" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <em>Building scalable web apps, hunting for vulnerabilities, and surviving engineering one Uttarakhand road trip at a time.</em>
