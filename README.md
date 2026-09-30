@@ -19,7 +19,6 @@
 * 🚀 Also building **Orbital Sentinel** (Space Situational Awareness) and **BETTER** (Proximity-first civic emergency response).
 * 💻 Comfortable working with **Linux, networking, Python, C/C++, JavaScript and security tooling**.
 * 🐈 Usually either hacking, coding, or hanging out with **Mimi & Miss President**.
-* 🎧 Currently blasting: *Dhanda Nyoliwala* & *Seedhe Maut*.
 
 ---
 
